@@ -1,0 +1,1053 @@
+Sender	Subject	Body	IsSpam
+reports@company.com	Monthly Report	Attached is the report for the current month	False
+meetings@calendar.com	Meeting Tomorrow	Don't forget about the meeting tomorrow at 10:00	False
+hr@company.com	Documents	Sending the necessary documents	False
+pm@projecthub.com	Project Ready	The project is completed and ready for review	False
+vacations@company.com	Vacation	Submitting a vacation request	False
+win@lottery-prize.com	Win a Million!	You won a million dollars! Click here!	True
+loans@fastcash-now.com	Online Loan	Get a loan without documents in 5 minutes	True
+deals@superdiscounts.com	90% Discount	Incredible 90% discount on all products! Hurry!	True
+help@urgent-finance.org	Urgent Help	Urgent financial help without refusals	True
+homejobs@easyprofit.net	Earn at Home	Make $5000 at home without leaving the house	True
+promo@freeiphones.com	Free iPhone	Get a free iPhone right now	True
+info@national-lottery.ua	Lottery	Congratulations! You won $1,000,000 in the lottery	True
+cash@quickmoney.co	Quick Money	Quick money without checks and certificates	True
+jobs@dream-career.net	Dream Job	Dream job with a salary of $100,000	True
+ads@miraclepills.org	Miracle Pills	Lose 20 kg in a week with our pills	True
+admin@company.com	Meeting Tomorrow	at 14:00 there is a meeting in the conference room	False
+support@company.com	Tech Support	Your request to tech support has been processed	False
+sales@onlinestore.com	Order	Your order #12345 is ready for pickup	False
+schedule@university.edu	Schedule	New class schedule for next week	False
+notices@subscription.com	Subscription	Your subscription expires in 3 days	False
+finance@company.com	Budget Review	Please review the quarterly budget proposal	False
+it@company.com	System Maintenance	Server maintenance scheduled for this weekend	False
+legal@company.com	Contract Update	Updated contract terms for your review	False
+training@company.com	Workshop Registration	Register for next month's professional development workshop	False
+payroll@company.com	Payslip	Your payslip for this month is available	False
+benefits@company.com	Health Insurance	Annual health insurance enrollment period	False
+security@company.com	Password Reset	Your password has been successfully reset	False
+marketing@company.com	Campaign Results	Q3 marketing campaign performance report	False
+operations@company.com	Process Update	New operational procedures effective immediately	False
+customer.service@retailstore.com	Order Confirmation	Thank you for your purchase! Order #67890	False
+shipping@logistics.com	Delivery Update	Your package will arrive tomorrow between 2-4 PM	False
+billing@utilities.com	Monthly Bill	Your electricity bill for March is ready	False
+notifications@bank.com	Account Statement	Your monthly account statement is available	False
+alerts@creditcard.com	Payment Reminder	Your credit card payment is due in 3 days	False
+newsletter@techblog.com	Weekly Tech News	This week's top technology stories	False
+updates@software.com	Version Update	New software version 2.1 is now available	False
+events@conference.org	Conference Registration	Early bird registration ends next week	False
+admissions@university.edu	Application Status	Your application has been received and is under review	False
+library@university.edu	Book Due	Books are due back by end of week	False
+registrar@university.edu	Grade Report	Your semester grades are now available	False
+winner@prize-scam.net	URGENT WINNER!	You are the LUCKY WINNER of $500000! Act NOW!	True
+money@get-rich-quick.org	Make Money Fast	Earn $10000 in just one week with our secret method	True
+pharmacy@cheap-meds.biz	Cheap Medications	Buy prescription drugs without prescription! 90% off	True
+casino@lucky-slots.info	Casino Bonus	$1000 FREE casino bonus! No deposit required!	True
+dating@find-love.net	Find Your Match	Hot singles in your area want to meet you tonight	True
+crypto@bitcoin-profit.org	Bitcoin Investment	Turn $100 into $10000 with our Bitcoin trading bot	True
+weight@lose-fast.com	Lose Weight Now	Lose 30 pounds in 30 days without diet or exercise	True
+credit@fix-score.net	Fix Credit Score	Increase your credit score by 200 points instantly	True
+inheritance@african-prince.org	Inheritance Money	You have inherited $2000000 from distant relative	True
+survey@fake-rewards.com	Complete Survey	$500 gift card for completing 5-minute survey	True
+refund@tax-scam.gov	Tax Refund	You are eligible for $5000 tax refund! Click to claim	True
+security@phishing-bank.net	Account Suspended	Your account will be closed! Verify immediately	True
+support@fake-microsoft.org	Computer Infected	Your computer is infected! Download our antivirus now	True
+winner@fake-sweepstakes.com	Sweepstakes Winner	Congratulations! You won our $25000 sweepstakes	True
+grants@government-scam.org	Government Grant	You qualify for $50000 government grant! Apply now	True
+investment@ponzi-scheme.net	Investment Opportunity	Guaranteed 500% return on investment in 30 days	True
+loan@no-credit-check.biz	Instant Loan	Get $50000 loan with no credit check required	True
+work@work-from-home.org	Work From Home	Make $8000 per month working from home part-time	True
+pills@miracle-cure.net	Miracle Cure	Cure any disease with our revolutionary pills	True
+watch@luxury-replica.com	Luxury Watches	Rolex replicas starting at $50! Look authentic	True
+admin@company.com	Team Meeting	Weekly team meeting scheduled for Friday at 2 PM	False
+hr@company.com	Benefits Enrollment	Open enrollment period starts next Monday	False
+finance@company.com	Expense Report	Please submit your expense reports by month end	False
+it@company.com	Password Policy	New password requirements effective next week	False
+legal@company.com	Compliance Training	Mandatory compliance training due by Friday	False
+marketing@company.com	Product Launch	New product launch meeting tomorrow at 10 AM	False
+sales@company.com	Quarterly Results	Q4 sales results exceeded expectations	False
+operations@company.com	Inventory Count	Annual inventory count scheduled for next week	False
+facilities@company.com	Office Closure	Office will be closed for holiday on Monday	False
+training@company.com	Skills Workshop	Register for Excel advanced skills workshop	False
+communications@company.com	Company Newsletter	Monthly company newsletter now available	False
+procurement@company.com	Vendor Meeting	Meeting with new vendor scheduled for Thursday	False
+quality@company.com	Audit Results	Quality audit results and recommendations	False
+safety@company.com	Safety Training	Mandatory safety training for all employees	False
+wellness@company.com	Health Program	New employee wellness program launching	False
+diversity@company.com	Inclusion Workshop	Diversity and inclusion workshop next month	False
+innovation@company.com	Innovation Challenge	Submit your ideas for innovation challenge	False
+sustainability@company.com	Green Initiative	New company sustainability initiatives	False
+customer@company.com	Client Feedback	Important client feedback for your review	False
+project@company.com	Milestone Update	Project milestone achieved ahead of schedule	False
+noreply@amazon.com	Order Shipped	Your Amazon order has been shipped	False
+noreply@paypal.com	Payment Received	Payment of $250.00 has been received	False
+noreply@linkedin.com	Profile View	Someone viewed your LinkedIn profile	False
+noreply@facebook.com	Friend Request	You have a new friend request	False
+noreply@twitter.com	New Follower	You have 5 new followers	False
+noreply@instagram.com	Photo Liked	Your photo received 100 likes	False
+noreply@youtube.com	Video Comment	New comment on your video	False
+noreply@netflix.com	New Episodes	New episodes of your favorite show available	False
+noreply@spotify.com	Weekly Playlist	Your Discover Weekly playlist is ready	False
+noreply@uber.com	Trip Receipt	Receipt for your trip on March 15th	False
+noreply@airbnb.com	Booking Confirmed	Your booking for April 5-7 is confirmed	False
+noreply@booking.com	Hotel Reservation	Hotel reservation confirmation	False
+noreply@expedia.com	Flight Update	Flight delay notification for tomorrow's departure	False
+noreply@delta.com	Check-in Reminder	Check-in now for your flight tomorrow	False
+alerts@wells-fargo.com	Account Alert	Large transaction alert on your account	False
+statements@chase.com	Monthly Statement	Your March credit card statement is ready	False
+notifications@citi.com	Payment Posted	Your payment has been successfully processed	False
+alerts@americanexpress.com	Card Activity	Recent activity on your Amex card	False
+updates@discover.com	Cashback Reward	You earned $25 in cashback this month	False
+support@apple.com	App Store Receipt	Receipt for your App Store purchase	False
+noreply@google.com	Security Alert	Sign-in from new device detected	False
+updates@microsoft.com	Office 365	Your Office 365 subscription is expiring soon	False
+lottery@scammer.org	LOTTERY WINNER	YOU WON 1000000 EUROS IN INTERNATIONAL LOTTERY	True
+prince@nigeria.fake	Business Proposal	I am Prince Johnson with business proposal for you	True
+widow@inheritance.scam	Urgent Assistance	I am dying widow with 5 million to give you	True
+banker@fake-transfer.net	Fund Transfer	Help me transfer 50 million dollars from bank	True
+diplomat@fake-embassy.org	Diplomatic Package	You have package containing 2.5 million dollars	True
+agent@fake-fbi.gov	FBI Investigation	You are under investigation! Pay fine immediately	True
+irs@tax-fraud.scam	Tax Notice	You owe $15000 in back taxes! Pay now or face arrest	True
+microsoft@fake-support.net	Windows License	Your Windows license expired! Renew now	True
+amazon@account-scam.org	Account Suspended	Your Amazon account suspended! Verify now	True
+paypal@phishing-site.net	Payment Issue	Problem with your PayPal payment! Update info	True
+ebay@fake-ebay.scam	Second Chance	Second chance offer for item you didn't win	True
+facebook@security-fake.org	Security Check	Your Facebook account needs security verification	True
+google@account-phish.net	Account Recovery	Suspicious activity on your Google account	True
+apple@id-scam.org	Apple ID Locked	Your Apple ID has been locked for security	True
+netflix@billing-scam.net	Billing Issue	Problem with your Netflix billing information	True
+ups@package-scam.org	Package Delivery	Package delivery failed! Reschedule now	True
+fedex@tracking-fake.net	Delivery Update	Unable to deliver package! Update address	True
+dhl@shipping-scam.org	Shipping Notice	Customs fee required for package delivery	True
+usps@postal-fraud.net	Postal Service	Package held at post office! Pay fee to release	True
+instagram@verify-scam.org	Verification Badge	Get your Instagram verification badge now	True
+whatsapp@fake-update.net	WhatsApp Update	Update WhatsApp now or lose your account	True
+telegram@security-fake.org	Security Alert	Your Telegram account will be deleted	True
+zoom@meeting-scam.net	Meeting Link	Join urgent meeting about your account	True
+skype@account-fake.org	Account Verification	Verify your Skype account within 24 hours	True
+office@company.com	Quarterly Planning	Q2 planning session scheduled for next Tuesday	False
+ceo@company.com	All Hands Meeting	Quarterly all-hands meeting this Friday at 3 PM	False
+board@company.com	Board Meeting	Board meeting minutes attached for review	False
+investor@company.com	Investor Update	Monthly investor relations update	False
+pr@company.com	Press Release	Draft press release for your approval	False
+media@company.com	Interview Request	Media interview request for CEO	False
+research@company.com	Market Research	Latest market research findings attached	False
+strategy@company.com	Strategic Planning	Strategic planning workshop next month	False
+analytics@company.com	Performance Metrics	Monthly performance analytics report	False
+partnership@company.com	New Partnership	Partnership agreement ready for signature	False
+vendor@company.com	Contract Renewal	Vendor contract up for renewal next month	False
+consultant@company.com	Consulting Report	Quarterly consulting report delivered	False
+audit@company.com	Financial Audit	Annual financial audit scheduled	False
+insurance@company.com	Policy Renewal	Company insurance policy renewal notice	False
+bank@company.com	Loan Approval	Business loan application approved	False
+tax@company.com	Tax Filing	Corporate tax filing due next month	False
+regulatory@company.com	Compliance Report	Regulatory compliance report submitted	False
+ethics@company.com	Ethics Training	Annual ethics training completion required	False
+patent@company.com	Patent Application	Patent application status update	False
+trademark@company.com	Trademark Registration	Trademark registration successful	False
+pharmacy@pills-online.scam	Prescription Drugs	Buy Viagra without prescription! 80% discount	True
+casino@gambling-site.fake	Free Spins	1000 free spins at our online casino	True
+binary@trading-scam.org	Binary Options	Make $5000 daily with binary options trading	True
+forex@currency-scam.net	Forex Trading	Turn $500 into $50000 with forex trading	True
+crypto@coin-scam.org	Cryptocurrency	New cryptocurrency will make you millionaire	True
+stock@pump-dump.fake	Stock Tip	Hot stock tip! Buy now before price explodes	True
+gold@precious-metals.scam	Gold Investment	Invest in gold before economic collapse	True
+real-estate@property-scam.net	Real Estate	Buy foreclosed homes for pennies on dollar	True
+business@mlm-scam.org	Business Opportunity	Start your own business for just $99	True
+franchise@pyramid-scheme.net	Franchise Opportunity	Buy successful franchise for $5000	True
+energy@oil-scam.org	Oil Investment	Invest in oil wells with guaranteed returns	True
+solar@renewable-scam.net	Solar Investment	Government pays you to install solar panels	True
+water@commodity-scam.org	Water Rights	Buy water rights before shortage hits	True
+diamond@gem-scam.net	Diamond Investment	Invest in conflict-free diamonds now	True
+art@collectible-scam.org	Art Investment	Rare art pieces tripling in value	True
+wine@vintage-scam.net	Wine Investment	Vintage wines with 300% returns guaranteed	True
+antique@auction-scam.org	Antique Auction	Estate auction with incredible bargains	True
+collectible@coin-scam.net	Coin Collection	Rare coins increasing 500% in value	True
+sports@memorabilia-scam.org	Sports Cards	Sports memorabilia investment opportunity	True
+comic@collectible-fake.net	Comic Books	Rare comic books worth millions	True
+accounting@company.com	Monthly Books	Monthly accounting books ready for review	False
+treasury@company.com	Cash Flow	Weekly cash flow report attached	False
+controller@company.com	Financial Statements	Q1 financial statements prepared	False
+cfo@company.com	Budget Variance	Budget variance analysis for management	False
+ar@company.com	Accounts Receivable	AR aging report shows improvement	False
+ap@company.com	Accounts Payable	AP run scheduled for tomorrow	False
+cost@company.com	Cost Analysis	Product cost analysis completed	False
+revenue@company.com	Revenue Recognition	New revenue recognition policy update	False
+tax@company.com	Tax Planning	Year-end tax planning strategies	False
+asset@company.com	Asset Management	Fixed asset inventory completed	False
+risk@company.com	Risk Assessment	Enterprise risk assessment findings	False
+fraud@company.com	Fraud Prevention	New fraud prevention measures implemented	False
+internal@company.com	Internal Controls	Internal controls testing results	False
+external@company.com	External Audit	External auditors arriving next week	False
+sox@company.com	SOX Compliance	Sarbanes-Oxley compliance update	False
+gaap@company.com	GAAP Update	New GAAP accounting standards effective	False
+ifrs@company.com	IFRS Conversion	IFRS conversion project status update	False
+consolidation@company.com	Financial Consolidation	Monthly consolidation completed	False
+forecasting@company.com	Financial Forecast	Updated financial forecast for board	False
+modeling@company.com	Financial Model	Financial model updated with new assumptions	False
+health@miracle-pills.scam	Weight Loss Pills	Lose 50 pounds in 30 days guaranteed	True
+beauty@cosmetic-scam.org	Anti-Aging Cream	Look 20 years younger with our cream	True
+fitness@workout-scam.net	Fitness Program	Get ripped abs in just 2 weeks	True
+nutrition@supplement-scam.org	Muscle Building	Build massive muscles without exercise	True
+vision@eye-scam.net	Perfect Vision	Throw away your glasses forever	True
+hearing@ear-scam.org	Hearing Aid	Restore perfect hearing naturally	True
+memory@brain-scam.net	Memory Enhancement	Boost your IQ by 50 points	True
+energy@vitamin-scam.org	Energy Booster	Never feel tired again with our pills	True
+sleep@insomnia-scam.net	Sleep Solution	Fall asleep instantly every night	True
+pain@relief-scam.org	Pain Relief	Eliminate all pain without side effects	True
+diabetes@cure-scam.net	Diabetes Cure	Cure diabetes in 30 days naturally	True
+cancer@treatment-scam.org	Cancer Treatment	Revolutionary cancer cure doctors hate	True
+heart@cardiac-scam.net	Heart Health	Prevent heart attacks with one pill	True
+cholesterol@health-scam.org	Cholesterol Reducer	Lower cholesterol 200 points instantly	True
+blood@pressure-scam.net	Blood Pressure	Normalize blood pressure overnight	True
+arthritis@joint-scam.org	Arthritis Relief	End arthritis pain forever naturally	True
+baldness@hair-scam.net	Hair Growth	Regrow full head of hair in 60 days	True
+wrinkle@skin-scam.org	Wrinkle Remover	Remove all wrinkles without surgery	True
+acne@clear-skin.scam	Acne Treatment	Clear skin in 7 days guaranteed	True
+cellulite@body-scam.net	Cellulite Removal	Remove cellulite without exercise	True
+recruiting@company.com	Job Opening	Software developer position available	False
+candidates@company.com	Interview Schedule	Interview scheduled for Thursday 2 PM	False
+onboarding@company.com	New Hire Paperwork	Please complete onboarding documents	False
+background@company.com	Background Check	Background check results received	False
+references@company.com	Reference Check	Reference check completed successfully	False
+orientation@company.com	New Employee Orientation	Orientation starts Monday at 9 AM	False
+policy@company.com	Employee Handbook	Updated employee handbook available	False
+performance@company.com	Annual Review	Performance review scheduled next week	False
+development@company.com	Career Development	Career development planning session	False
+promotion@company.com	Job Promotion	Congratulations on your promotion	False
+transfer@company.com	Department Transfer	Transfer request approved effective immediately	False
+resignation@company.com	Exit Interview	Exit interview scheduled for Friday	False
+termination@company.com	Employment Termination	Final paycheck and benefits information	False
+retirement@company.com	Retirement Planning	Retirement planning workshop available	False
+disability@company.com	Disability Benefits	Disability benefits claim approved	False
+workers-comp@company.com	Workers Compensation	Workers comp claim status update	False
+unemployment@company.com	Unemployment Benefits	Unemployment benefits information	False
+cobra@company.com	COBRA Benefits	COBRA continuation coverage options	False
+pension@company.com	Pension Plan	Pension plan statement attached	False
+401k@company.com	401k Statement	Quarterly 401k statement available	False
+jobs@fake-employment.scam	High Paying Job	Earn $15000 monthly working 2 hours daily	True
+career@dream-jobs.fake	Dream Career	Land your dream job with our secret method	True
+resume@job-scam.org	Resume Service	Professional resume guarantees job interviews	True
+interview@employment-scam.net	Job Interview	You're pre-approved for high-paying position	True
+placement@recruitment-fake.org	Job Placement	Guaranteed job placement for $500 fee	True
+overseas@foreign-jobs.scam	Work Overseas	Work in Dubai earning $20000 monthly	True
+government@civil-service.fake	Government Job	Get government job without taking exam	True
+airline@pilot-scam.org	Airline Pilot	Become airline pilot with our training	True
+oil@offshore-jobs.fake	Offshore Oil Jobs	Make $25000 monthly on oil rigs	True
+cruise@ship-jobs.scam	Cruise Ship Jobs	Work on cruise ships traveling the world	True
+modeling@talent-scam.org	Modeling Career	Start modeling career with our agency	True
+acting@hollywood-fake.net	Acting Opportunity	Star in Hollywood movies guaranteed	True
+music@record-deal.scam	Record Deal	Get recording contract with major label	True
+sports@athlete-scam.org	Sports Career	Professional sports career opportunity	True
+lottery@winning-fake.net	Lottery Training	Learn lottery winning secrets system	True
+gambling@casino-system.scam	Casino System	Beat the casino every time guaranteed	True
+horse@racing-tips.fake	Horse Racing	Inside horse racing tips 90% win rate	True
+sports@betting-scam.org	Sports Betting	Sports betting system never loses	True
+poker@card-counting.fake	Poker Secrets	Learn poker secrets pros don't share	True
+blackjack@counting-scam.net	Blackjack System	Count cards like professional player	True
+billing@company.com	Invoice Processing	Monthly invoices ready for processing	False
+collections@company.com	Past Due Account	Account 30 days past due please remit	False
+credit@company.com	Credit Application	Credit application approved for $50000	False
+terms@company.com	Payment Terms	Updated payment terms effective immediately	False
+discount@company.com	Early Payment Discount	Take 2% discount for payment within 10 days	False
+statement@company.com	Account Statement	Monthly account statement attached	False
+reconciliation@company.com	Account Reconciliation	Please reconcile account differences	False
+dispute@company.com	Billing Dispute	Billing dispute resolved in your favor	False
+refund@company.com	Refund Process	Refund of $1250 processed to your account	False
+chargeback@company.com	Chargeback Notice	Chargeback received for order #78901	False
+payment@company.com	Payment Method	Please update payment method on file	False
+autopay@company.com	Automatic Payment	Autopay enrollment confirmation	False
+finance@company.com	Financing Options	New financing options available	False
+lease@company.com	Equipment Lease	Equipment lease agreement renewal	False
+purchase@company.com	Purchase Order	Purchase order #PO-2023-456 approved	False
+quote@company.com	Price Quote	Updated price quote for your review	False
+proposal@company.com	Proposal Submitted	Proposal submitted for your consideration	False
+contract@company.com	Contract Amendment	Contract amendment requires signature	False
+warranty@company.com	Warranty Information	Extended warranty options available	False
+maintenance@company.com	Service Contract	Annual service contract renewal	False
+tech@company.com	Technical Update	System update scheduled for tonight	False
+server@company.com	Server Maintenance	Database server maintenance completed	False
+network@company.com	Network Upgrade	Network infrastructure upgrade complete	False
+security@company.com	Security Patch	Critical security patches installed	False
+backup@company.com	Backup Status	Daily backup completed successfully	False
+storage@company.com	Storage Capacity	Storage capacity at 85% threshold	False
+cloud@company.com	Cloud Migration	Cloud migration project on schedule	False
+software@company.com	Software License	Software licenses up for renewal	False
+hardware@company.com	Hardware Replacement	Hardware replacement schedule attached	False
+mobile@company.com	Mobile Device	New mobile device policy effective	False
+laptop@company.com	Laptop Refresh	Laptop refresh program begins next month	False
+desktop@company.com	Desktop Upgrade	Desktop computers scheduled for upgrade	False
+printer@company.com	Printer Maintenance	Printer maintenance completed today	False
+phone@company.com	Phone System	New phone system training next week	False
+email@company.com	Email Migration	Email system migration this weekend	False
+website@company.com	Website Update	Company website updates published	False
+database@company.com	Database Optimization	Database optimization completed	False
+application@company.com	Application Deployment	New application version deployed	False
+integration@company.com	System Integration	System integration testing passed	False
+api@company.com	API Update	API documentation updated with new endpoints	False
+virus@computer-scam.org	Computer Virus	Your computer is infected with 247 viruses	True
+malware@security-fake.net	Malware Detected	Dangerous malware found on your computer	True
+antivirus@fake-protection.org	Antivirus Expired	Your antivirus protection has expired	True
+firewall@security-scam.net	Firewall Alert	Your firewall has been compromised	True
+ransomware@crypto-lock.fake	Files Encrypted	Your files are encrypted pay ransom	True
+hacker@identity-theft.scam	Identity Stolen	Your identity was stolen act immediately	True
+spyware@monitoring-fake.org	Computer Monitored	Your computer is being monitored	True
+trojan@backdoor-scam.net	Trojan Detected	Trojan horse detected on your system	True
+worm@network-fake.org	Network Worm	Network worm spreading through your network	True
+botnet@zombie-scam.net	Botnet Infection	Your computer joined criminal botnet	True
+keylogger@password-fake.org	Passwords Stolen	Keylogger captured all your passwords	True
+rootkit@system-scam.net	System Compromised	Rootkit has taken control of system	True
+adware@popup-fake.org	Popup Virus	Popup virus installed remove immediately	True
+browser@hijack-scam.net	Browser Hijacked	Your browser has been hijacked	True
+homepage@redirect-fake.org	Homepage Changed	Malware changed your homepage settings	True
+search@engine-scam.net	Search Redirect	Search engine redirecting to malicious sites	True
+download@fake-software.org	Infected Download	Downloaded file contains 50 viruses	True
+attachment@email-scam.net	Email Virus	Email attachment contains dangerous virus	True
+link@phishing-fake.org	Malicious Link	Clicked link downloaded malware	True
+update@fake-flash.net	Flash Update	Adobe Flash needs urgent security update	True
+marketing@company.com	Campaign Launch	New marketing campaign launches Monday	False
+creative@company.com	Design Review	Creative designs ready for your review	False
+content@company.com	Content Calendar	Monthly content calendar approved	False
+social@company.com	Social Media	Social media engagement up 25% this month	False
+email@company.com	Email Campaign	Email campaign achieved 15% open rate	False
+advertising@company.com	Ad Performance	Digital advertising ROI exceeded targets	False
+brand@company.com	Brand Guidelines	Updated brand guidelines distributed	False
+pr@company.com	Press Coverage	Positive press coverage in industry publication	False
+events@company.com	Trade Show	Trade show booth setup completed	False
+webinar@company.com	Webinar Registration	Webinar registration exceeds expectations	False
+seo@company.com	SEO Report	Website ranking improved for key terms	False
+analytics@company.com	Web Analytics	Website traffic increased 30% last month	False
+conversion@company.com	Conversion Rate	Landing page conversion rate improved	False
+leads@company.com	Lead Generation	Lead generation campaign generated 500 leads	False
+nurturing@company.com	Lead Nurturing	Lead nurturing workflow optimization complete	False
+segmentation@company.com	Customer Segmentation	Customer segments analyzed and updated	False
+personalization@company.com	Personalization	Email personalization increased engagement	False
+automation@company.com	Marketing Automation	Marketing automation workflows deployed	False
+attribution@company.com	Attribution Model	Marketing attribution model updated	False
+budget@company.com	Marketing Budget	Q2 marketing budget approved by finance	False
+roi@company.com	Marketing ROI	Marketing ROI dashboard updated weekly	False
+dating@find-match.scam	Find True Love	Meet your soulmate tonight guaranteed	True
+singles@local-area.fake	Local Singles	Hot singles in your area want to chat	True
+romance@perfect-match.org	Perfect Match	Algorithm finds your perfect romantic match	True
+marriage@bride-scam.net	Foreign Bride	Beautiful foreign brides seeking marriage	True
+hookup@casual-fake.org	Casual Dating	No strings attached dating tonight	True
+adult@mature-scam.net	Adult Dating	Mature singles looking for companionship	True
+webcam@chat-fake.org	Webcam Chat	Private webcam chat with beautiful women	True
+escort@companion-scam.net	Escort Service	High-class escort service in your city	True
+massage@spa-fake.org	Massage Therapy	Relaxing massage therapy available now	True
+personal@trainer-scam.net	Personal Trainer	Get in shape with personal trainer	True
+coach@life-fake.org	Life Coach	Transform your life with our coaching	True
+therapy@counseling-scam.net	Relationship Therapy	Fix your relationship problems today	True
+psychic@fortune-fake.org	Psychic Reading	Psychic reveals your future for free	True
+astrology@horoscope-scam.net	Astrology Reading	Detailed astrology reading reveals all	True
+tarot@card-fake.org	Tarot Cards	Tarot card reading predicts your destiny	True
+numerology@number-scam.net	Numerology Report	Your lucky numbers revealed today	True
+palm@reading-fake.org	Palm Reading	Palm reading reveals your life path	True
+crystal@healing-scam.net	Crystal Healing	Healing crystals change your energy	True
+meditation@spiritual-fake.org	Meditation Guide	Ancient meditation secrets revealed	True
+chakra@alignment-scam.net	Chakra Alignment	Align your chakras for perfect health	True
+customer@company.com	Customer Complaint	Customer complaint about delayed shipment	False
+service@company.com	Service Request	Service request #SR-789012 completed	False
+satisfaction@company.com	Customer Survey	Customer satisfaction survey results	False
+feedback@company.com	Product Feedback	Valuable product feedback from customers	False
+testimonial@company.com	Customer Testimonial	Great customer testimonial for website	False
+reference@company.com	Customer Reference	Customer agreed to serve as reference	False
+loyalty@company.com	Loyalty Program	Customer loyalty program enrollment	False
+retention@company.com	Customer Retention	Customer retention rates improved	False
+churn@company.com	Customer Churn	Customer churn analysis completed	False
+acquisition@company.com	Customer Acquisition	New customer acquisition costs down	False
+lifetime@company.com	Customer Value	Customer lifetime value analysis ready	False
+segmentation@company.com	Customer Segments	Customer segmentation study complete	False
+journey@company.com	Customer Journey	Customer journey mapping workshop	False
+experience@company.com	Customer Experience	Customer experience improvement plan	False
+touchpoint@company.com	Customer Touchpoints	Customer touchpoint optimization	False
+persona@company.com	Customer Personas	Updated customer personas available	False
+voice@company.com	Voice of Customer	Voice of customer research findings	False
+nps@company.com	Net Promoter Score	NPS scores increased to industry average	False
+csat@company.com	Customer Satisfaction	CSAT scores show marked improvement	False
+ces@company.com	Customer Effort Score	Customer effort scores trending positive	False
+call@company.com	Call Center	Call center performance metrics improved	False
+chat@company.com	Live Chat	Live chat response times decreased	False
+email@company.com	Email Support	Email support ticket resolution improved	False
+social@company.com	Social Support	Social media support response optimized	False
+reports@company.com	Monthly Report	Attached is the report for the current month	False
+meetings@calendar.com	Meeting Tomorrow	Don't forget about the meeting tomorrow at 10:00	False
+hr@company.com	Documents	Sending the necessary documents	False
+pm@projecthub.com	Project Ready	The project is completed and ready for review	False
+vacations@company.com	Vacation	Submitting a vacation request	False
+win@lottery-prize.com	Win a Million!	You won a million dollars! Click here!	True
+loans@fastcash-now.com	Online Loan	Get a loan without documents in 5 minutes	True
+deals@superdiscounts.com	90% Discount	Incredible 90% discount on all products! Hurry!	True
+help@urgent-finance.org	Urgent Help	Urgent financial help without refusals	True
+homejobs@easyprofit.net	Earn at Home	Make $5000 at home without leaving the house	True
+promo@freeiphones.com	Free iPhone	Get a free iPhone right now	True
+info@national-lottery.ua	Lottery	Congratulations! You won $1,000,000 in the lottery	True
+cash@quickmoney.co	Quick Money	Quick money without checks and certificates	True
+jobs@dream-career.net	Dream Job	Dream job with a salary of $100,000	True
+ads@miraclepills.org	Miracle Pills	Lose 20 kg in a week with our pills	True
+admin@company.com	Meeting Tomorrow	at 14:00 there is a meeting in the conference room	False
+support@company.com	Tech Support	Your request to tech support has been processed	False
+sales@onlinestore.com	Order	Your order #12345 is ready for pickup	False
+schedule@university.edu	Schedule	New class schedule for next week	False
+notices@subscription.com	Subscription	Your subscription expires in 3 days	False
+finance@company.com	Budget Review	Please review the quarterly budget proposal	False
+it@company.com	System Maintenance	Server maintenance scheduled for this weekend	False
+legal@company.com	Contract Update	Updated contract terms for your review	False
+training@company.com	Workshop Registration	Register for next month's professional development workshop	False
+payroll@company.com	Payslip	Your payslip for this month is available	False
+benefits@company.com	Health Insurance	Annual health insurance enrollment period	False
+security@company.com	Password Reset	Your password has been successfully reset	False
+marketing@company.com	Campaign Results	Q3 marketing campaign performance report	False
+operations@company.com	Process Update	New operational procedures effective immediately	False
+customer.service@retailstore.com	Order Confirmation	Thank you for your purchase! Order #67890	False
+shipping@logistics.com	Delivery Update	Your package will arrive tomorrow between 2-4 PM	False
+billing@utilities.com	Monthly Bill	Your electricity bill for March is ready	False
+notifications@bank.com	Account Statement	Your monthly account statement is available	False
+alerts@creditcard.com	Payment Reminder	Your credit card payment is due in 3 days	False
+newsletter@techblog.com	Weekly Tech News	This week's top technology stories	False
+updates@software.com	Version Update	New software version 2.1 is now available	False
+events@conference.org	Conference Registration	Early bird registration ends next week	False
+admissions@university.edu	Application Status	Your application has been received and is under review	False
+library@university.edu	Book Due	Books are due back by end of week	False
+registrar@university.edu	Grade Report	Your semester grades are now available	False
+winner@prize-scam.net	URGENT WINNER!	You are the LUCKY WINNER of $500000! Act NOW!	True
+money@get-rich-quick.org	Make Money Fast	Earn $10000 in just one week with our secret method	True
+pharmacy@cheap-meds.biz	Cheap Medications	Buy prescription drugs without prescription! 90% off	True
+casino@lucky-slots.info	Casino Bonus	$1000 FREE casino bonus! No deposit required!	True
+dating@find-love.net	Find Your Match	Hot singles in your area want to meet you tonight	True
+crypto@bitcoin-profit.org	Bitcoin Investment	Turn $100 into $10000 with our Bitcoin trading bot	True
+weight@lose-fast.com	Lose Weight Now	Lose 30 pounds in 30 days without diet or exercise	True
+credit@fix-score.net	Fix Credit Score	Increase your credit score by 200 points instantly	True
+inheritance@african-prince.org	Inheritance Money	You have inherited $2000000 from distant relative	True
+survey@fake-rewards.com	Complete Survey	$500 gift card for completing 5-minute survey	True
+refund@tax-scam.gov	Tax Refund	You are eligible for $5000 tax refund! Click to claim	True
+security@phishing-bank.net	Account Suspended	Your account will be closed! Verify immediately	True
+support@fake-microsoft.org	Computer Infected	Your computer is infected! Download our antivirus now	True
+winner@fake-sweepstakes.com	Sweepstakes Winner	Congratulations! You won our $25000 sweepstakes	True
+grants@government-scam.org	Government Grant	You qualify for $50000 government grant! Apply now	True
+investment@ponzi-scheme.net	Investment Opportunity	Guaranteed 500% return on investment in 30 days	True
+loan@no-credit-check.biz	Instant Loan	Get $50000 loan with no credit check required	True
+work@work-from-home.org	Work From Home	Make $8000 per month working from home part-time	True
+pills@miracle-cure.net	Miracle Cure	Cure any disease with our revolutionary pills	True
+watch@luxury-replica.com	Luxury Watches	Rolex replicas starting at $50! Look authentic	True
+admin@company.com	Team Meeting	Weekly team meeting scheduled for Friday at 2 PM	False
+hr@company.com	Benefits Enrollment	Open enrollment period starts next Monday	False
+finance@company.com	Expense Report	Please submit your expense reports by month end	False
+it@company.com	Password Policy	New password requirements effective next week	False
+legal@company.com	Compliance Training	Mandatory compliance training due by Friday	False
+marketing@company.com	Product Launch	New product launch meeting tomorrow at 10 AM	False
+sales@company.com	Quarterly Results	Q4 sales results exceeded expectations	False
+operations@company.com	Inventory Count	Annual inventory count scheduled for next week	False
+facilities@company.com	Office Closure	Office will be closed for holiday on Monday	False
+training@company.com	Skills Workshop	Register for Excel advanced skills workshop	False
+communications@company.com	Company Newsletter	Monthly company newsletter now available	False
+procurement@company.com	Vendor Meeting	Meeting with new vendor scheduled for Thursday	False
+quality@company.com	Audit Results	Quality audit results and recommendations	False
+safety@company.com	Safety Training	Mandatory safety training for all employees	False
+wellness@company.com	Health Program	New employee wellness program launching	False
+diversity@company.com	Inclusion Workshop	Diversity and inclusion workshop next month	False
+innovation@company.com	Innovation Challenge	Submit your ideas for innovation challenge	False
+sustainability@company.com	Green Initiative	New company sustainability initiatives	False
+customer@company.com	Client Feedback	Important client feedback for your review	False
+project@company.com	Milestone Update	Project milestone achieved ahead of schedule	False
+noreply@amazon.com	Order Shipped	Your Amazon order has been shipped	False
+noreply@paypal.com	Payment Received	Payment of $250.00 has been received	False
+noreply@linkedin.com	Profile View	Someone viewed your LinkedIn profile	False
+noreply@facebook.com	Friend Request	You have a new friend request	False
+noreply@twitter.com	New Follower	You have 5 new followers	False
+noreply@instagram.com	Photo Liked	Your photo received 100 likes	False
+noreply@youtube.com	Video Comment	New comment on your video	False
+noreply@netflix.com	New Episodes	New episodes of your favorite show available	False
+noreply@spotify.com	Weekly Playlist	Your Discover Weekly playlist is ready	False
+noreply@uber.com	Trip Receipt	Receipt for your trip on March 15th	False
+noreply@airbnb.com	Booking Confirmed	Your booking for April 5-7 is confirmed	False
+noreply@booking.com	Hotel Reservation	Hotel reservation confirmation	False
+noreply@expedia.com	Flight Update	Flight delay notification for tomorrow's departure	False
+noreply@delta.com	Check-in Reminder	Check-in now for your flight tomorrow	False
+alerts@wells-fargo.com	Account Alert	Large transaction alert on your account	False
+statements@chase.com	Monthly Statement	Your March credit card statement is ready	False
+notifications@citi.com	Payment Posted	Your payment has been successfully processed	False
+alerts@americanexpress.com	Card Activity	Recent activity on your Amex card	False
+updates@discover.com	Cashback Reward	You earned $25 in cashback this month	False
+support@apple.com	App Store Receipt	Receipt for your App Store purchase	False
+noreply@google.com	Security Alert	Sign-in from new device detected	False
+updates@microsoft.com	Office 365	Your Office 365 subscription is expiring soon	False
+lottery@scammer.org	LOTTERY WINNER	YOU WON 1000000 EUROS IN INTERNATIONAL LOTTERY	True
+prince@nigeria.fake	Business Proposal	I am Prince Johnson with business proposal for you	True
+widow@inheritance.scam	Urgent Assistance	I am dying widow with 5 million to give you	True
+banker@fake-transfer.net	Fund Transfer	Help me transfer 50 million dollars from bank	True
+diplomat@fake-embassy.org	Diplomatic Package	You have package containing 2.5 million dollars	True
+agent@fake-fbi.gov	FBI Investigation	You are under investigation! Pay fine immediately	True
+irs@tax-fraud.scam	Tax Notice	You owe $15000 in back taxes! Pay now or face arrest	True
+microsoft@fake-support.net	Windows License	Your Windows license expired! Renew now	True
+amazon@account-scam.org	Account Suspended	Your Amazon account suspended! Verify now	True
+paypal@phishing-site.net	Payment Issue	Problem with your PayPal payment! Update info	True
+ebay@fake-ebay.scam	Second Chance	Second chance offer for item you didn't win	True
+facebook@security-fake.org	Security Check	Your Facebook account needs security verification	True
+google@account-phish.net	Account Recovery	Suspicious activity on your Google account	True
+apple@id-scam.org	Apple ID Locked	Your Apple ID has been locked for security	True
+netflix@billing-scam.net	Billing Issue	Problem with your Netflix billing information	True
+ups@package-scam.org	Package Delivery	Package delivery failed! Reschedule now	True
+fedex@tracking-fake.net	Delivery Update	Unable to deliver package! Update address	True
+dhl@shipping-scam.org	Shipping Notice	Customs fee required for package delivery	True
+usps@postal-fraud.net	Postal Service	Package held at post office! Pay fee to release	True
+instagram@verify-scam.org	Verification Badge	Get your Instagram verification badge now	True
+whatsapp@fake-update.net	WhatsApp Update	Update WhatsApp now or lose your account	True
+telegram@security-fake.org	Security Alert	Your Telegram account will be deleted	True
+zoom@meeting-scam.net	Meeting Link	Join urgent meeting about your account	True
+skype@account-fake.org	Account Verification	Verify your Skype account within 24 hours	True
+office@company.com	Quarterly Planning	Q2 planning session scheduled for next Tuesday	False
+ceo@company.com	All Hands Meeting	Quarterly all-hands meeting this Friday at 3 PM	False
+board@company.com	Board Meeting	Board meeting minutes attached for review	False
+investor@company.com	Investor Update	Monthly investor relations update	False
+pr@company.com	Press Release	Draft press release for your approval	False
+media@company.com	Interview Request	Media interview request for CEO	False
+research@company.com	Market Research	Latest market research findings attached	False
+strategy@company.com	Strategic Planning	Strategic planning workshop next month	False
+analytics@company.com	Performance Metrics	Monthly performance analytics report	False
+partnership@company.com	New Partnership	Partnership agreement ready for signature	False
+vendor@company.com	Contract Renewal	Vendor contract up for renewal next month	False
+consultant@company.com	Consulting Report	Quarterly consulting report delivered	False
+audit@company.com	Financial Audit	Annual financial audit scheduled	False
+insurance@company.com	Policy Renewal	Company insurance policy renewal notice	False
+bank@company.com	Loan Approval	Business loan application approved	False
+tax@company.com	Tax Filing	Corporate tax filing due next month	False
+regulatory@company.com	Compliance Report	Regulatory compliance report submitted	False
+ethics@company.com	Ethics Training	Annual ethics training completion required	False
+patent@company.com	Patent Application	Patent application status update	False
+trademark@company.com	Trademark Registration	Trademark registration successful	False
+pharmacy@pills-online.scam	Prescription Drugs	Buy Viagra without prescription! 80% discount	True
+casino@gambling-site.fake	Free Spins	1000 free spins at our online casino	True
+binary@trading-scam.org	Binary Options	Make $5000 daily with binary options trading	True
+forex@currency-scam.net	Forex Trading	Turn $500 into $50000 with forex trading	True
+crypto@coin-scam.org	Cryptocurrency	New cryptocurrency will make you millionaire	True
+stock@pump-dump.fake	Stock Tip	Hot stock tip! Buy now before price explodes	True
+gold@precious-metals.scam	Gold Investment	Invest in gold before economic collapse	True
+real-estate@property-scam.net	Real Estate	Buy foreclosed homes for pennies on dollar	True
+business@mlm-scam.org	Business Opportunity	Start your own business for just $99	True
+franchise@pyramid-scheme.net	Franchise Opportunity	Buy successful franchise for $5000	True
+energy@oil-scam.org	Oil Investment	Invest in oil wells with guaranteed returns	True
+solar@renewable-scam.net	Solar Investment	Government pays you to install solar panels	True
+water@commodity-scam.org	Water Rights	Buy water rights before shortage hits	True
+diamond@gem-scam.net	Diamond Investment	Invest in conflict-free diamonds now	True
+art@collectible-scam.org	Art Investment	Rare art pieces tripling in value	True
+wine@vintage-scam.net	Wine Investment	Vintage wines with 300% returns guaranteed	True
+antique@auction-scam.org	Antique Auction	Estate auction with incredible bargains	True
+collectible@coin-scam.net	Coin Collection	Rare coins increasing 500% in value	True
+sports@memorabilia-scam.org	Sports Cards	Sports memorabilia investment opportunity	True
+comic@collectible-fake.net	Comic Books	Rare comic books worth millions	True
+accounting@company.com	Monthly Books	Monthly accounting books ready for review	False
+treasury@company.com	Cash Flow	Weekly cash flow report attached	False
+controller@company.com	Financial Statements	Q1 financial statements prepared	False
+cfo@company.com	Budget Variance	Budget variance analysis for management	False
+ar@company.com	Accounts Receivable	AR aging report shows improvement	False
+ap@company.com	Accounts Payable	AP run scheduled for tomorrow	False
+cost@company.com	Cost Analysis	Product cost analysis completed	False
+revenue@company.com	Revenue Recognition	New revenue recognition policy update	False
+tax@company.com	Tax Planning	Year-end tax planning strategies	False
+asset@company.com	Asset Management	Fixed asset inventory completed	False
+risk@company.com	Risk Assessment	Enterprise risk assessment findings	False
+fraud@company.com	Fraud Prevention	New fraud prevention measures implemented	False
+internal@company.com	Internal Controls	Internal controls testing results	False
+external@company.com	External Audit	External auditors arriving next week	False
+sox@company.com	SOX Compliance	Sarbanes-Oxley compliance update	False
+gaap@company.com	GAAP Update	New GAAP accounting standards effective	False
+ifrs@company.com	IFRS Conversion	IFRS conversion project status update	False
+consolidation@company.com	Financial Consolidation	Monthly consolidation completed	False
+forecasting@company.com	Financial Forecast	Updated financial forecast for board	False
+modeling@company.com	Financial Model	Financial model updated with new assumptions	False
+health@miracle-pills.scam	Weight Loss Pills	Lose 50 pounds in 30 days guaranteed	True
+beauty@cosmetic-scam.org	Anti-Aging Cream	Look 20 years younger with our cream	True
+fitness@workout-scam.net	Fitness Program	Get ripped abs in just 2 weeks	True
+nutrition@supplement-scam.org	Muscle Building	Build massive muscles without exercise	True
+vision@eye-scam.net	Perfect Vision	Throw away your glasses forever	True
+hearing@ear-scam.org	Hearing Aid	Restore perfect hearing naturally	True
+memory@brain-scam.net	Memory Enhancement	Boost your IQ by 50 points	True
+energy@vitamin-scam.org	Energy Booster	Never feel tired again with our pills	True
+sleep@insomnia-scam.net	Sleep Solution	Fall asleep instantly every night	True
+pain@relief-scam.org	Pain Relief	Eliminate all pain without side effects	True
+diabetes@cure-scam.net	Diabetes Cure	Cure diabetes in 30 days naturally	True
+cancer@treatment-scam.org	Cancer Treatment	Revolutionary cancer cure doctors hate	True
+heart@cardiac-scam.net	Heart Health	Prevent heart attacks with one pill	True
+cholesterol@health-scam.org	Cholesterol Reducer	Lower cholesterol 200 points instantly	True
+blood@pressure-scam.net	Blood Pressure	Normalize blood pressure overnight	True
+arthritis@joint-scam.org	Arthritis Relief	End arthritis pain forever naturally	True
+baldness@hair-scam.net	Hair Growth	Regrow full head of hair in 60 days	True
+wrinkle@skin-scam.org	Wrinkle Remover	Remove all wrinkles without surgery	True
+acne@clear-skin.scam	Acne Treatment	Clear skin in 7 days guaranteed	True
+cellulite@body-scam.net	Cellulite Removal	Remove cellulite without exercise	True
+recruiting@company.com	Job Opening	Software developer position available	False
+candidates@company.com	Interview Schedule	Interview scheduled for Thursday 2 PM	False
+onboarding@company.com	New Hire Paperwork	Please complete onboarding documents	False
+background@company.com	Background Check	Background check results received	False
+references@company.com	Reference Check	Reference check completed successfully	False
+orientation@company.com	New Employee Orientation	Orientation starts Monday at 9 AM	False
+policy@company.com	Employee Handbook	Updated employee handbook available	False
+performance@company.com	Annual Review	Performance review scheduled next week	False
+development@company.com	Career Development	Career development planning session	False
+promotion@company.com	Job Promotion	Congratulations on your promotion	False
+transfer@company.com	Department Transfer	Transfer request approved effective immediately	False
+resignation@company.com	Exit Interview	Exit interview scheduled for Friday	False
+termination@company.com	Employment Termination	Final paycheck and benefits information	False
+retirement@company.com	Retirement Planning	Retirement planning workshop available	False
+disability@company.com	Disability Benefits	Disability benefits claim approved	False
+workers-comp@company.com	Workers Compensation	Workers comp claim status update	False
+unemployment@company.com	Unemployment Benefits	Unemployment benefits information	False
+cobra@company.com	COBRA Benefits	COBRA continuation coverage options	False
+pension@company.com	Pension Plan	Pension plan statement attached	False
+401k@company.com	401k Statement	Quarterly 401k statement available	False
+jobs@fake-employment.scam	High Paying Job	Earn $15000 monthly working 2 hours daily	True
+career@dream-jobs.fake	Dream Career	Land your dream job with our secret method	True
+resume@job-scam.org	Resume Service	Professional resume guarantees job interviews	True
+interview@employment-scam.net	Job Interview	You're pre-approved for high-paying position	True
+placement@recruitment-fake.org	Job Placement	Guaranteed job placement for $500 fee	True
+overseas@foreign-jobs.scam	Work Overseas	Work in Dubai earning $20000 monthly	True
+government@civil-service.fake	Government Job	Get government job without taking exam	True
+airline@pilot-scam.org	Airline Pilot	Become airline pilot with our training	True
+oil@offshore-jobs.fake	Offshore Oil Jobs	Make $25000 monthly on oil rigs	True
+cruise@ship-jobs.scam	Cruise Ship Jobs	Work on cruise ships traveling the world	True
+modeling@talent-scam.org	Modeling Career	Start modeling career with our agency	True
+acting@hollywood-fake.net	Acting Opportunity	Star in Hollywood movies guaranteed	True
+music@record-deal.scam	Record Deal	Get recording contract with major label	True
+sports@athlete-scam.org	Sports Career	Professional sports career opportunity	True
+lottery@winning-fake.net	Lottery Training	Learn lottery winning secrets system	True
+gambling@casino-system.scam	Casino System	Beat the casino every time guaranteed	True
+horse@racing-tips.fake	Horse Racing	Inside horse racing tips 90% win rate	True
+sports@betting-scam.org	Sports Betting	Sports betting system never loses	True
+poker@card-counting.fake	Poker Secrets	Learn poker secrets pros don't share	True
+blackjack@counting-scam.net	Blackjack System	Count cards like professional player	True
+billing@company.com	Invoice Processing	Monthly invoices ready for processing	False
+collections@company.com	Past Due Account	Account 30 days past due please remit	False
+credit@company.com	Credit Application	Credit application approved for $50000	False
+terms@company.com	Payment Terms	Updated payment terms effective immediately	False
+discount@company.com	Early Payment Discount	Take 2% discount for payment within 10 days	False
+statement@company.com	Account Statement	Monthly account statement attached	False
+reconciliation@company.com	Account Reconciliation	Please reconcile account differences	False
+dispute@company.com	Billing Dispute	Billing dispute resolved in your favor	False
+refund@company.com	Refund Process	Refund of $1250 processed to your account	False
+chargeback@company.com	Chargeback Notice	Chargeback received for order #78901	False
+payment@company.com	Payment Method	Please update payment method on file	False
+autopay@company.com	Automatic Payment	Autopay enrollment confirmation	False
+finance@company.com	Financing Options	New financing options available	False
+lease@company.com	Equipment Lease	Equipment lease agreement renewal	False
+purchase@company.com	Purchase Order	Purchase order #PO-2023-456 approved	False
+quote@company.com	Price Quote	Updated price quote for your review	False
+proposal@company.com	Proposal Submitted	Proposal submitted for your consideration	False
+contract@company.com	Contract Amendment	Contract amendment requires signature	False
+warranty@company.com	Warranty Information	Extended warranty options available	False
+maintenance@company.com	Service Contract	Annual service contract renewal	False
+tech@company.com	Technical Update	System update scheduled for tonight	False
+server@company.com	Server Maintenance	Database server maintenance completed	False
+network@company.com	Network Upgrade	Network infrastructure upgrade complete	False
+security@company.com	Security Patch	Critical security patches installed	False
+backup@company.com	Backup Status	Daily backup completed successfully	False
+storage@company.com	Storage Capacity	Storage capacity at 85% threshold	False
+cloud@company.com	Cloud Migration	Cloud migration project on schedule	False
+software@company.com	Software License	Software licenses up for renewal	False
+hardware@company.com	Hardware Replacement	Hardware replacement schedule attached	False
+mobile@company.com	Mobile Device	New mobile device policy effective	False
+laptop@company.com	Laptop Refresh	Laptop refresh program begins next month	False
+desktop@company.com	Desktop Upgrade	Desktop computers scheduled for upgrade	False
+printer@company.com	Printer Maintenance	Printer maintenance completed today	False
+phone@company.com	Phone System	New phone system training next week	False
+email@company.com	Email Migration	Email system migration this weekend	False
+website@company.com	Website Update	Company website updates published	False
+database@company.com	Database Optimization	Database optimization completed	False
+application@company.com	Application Deployment	New application version deployed	False
+integration@company.com	System Integration	System integration testing passed	False
+api@company.com	API Update	API documentation updated with new endpoints	False
+virus@computer-scam.org	Computer Virus	Your computer is infected with 247 viruses	True
+malware@security-fake.net	Malware Detected	Dangerous malware found on your computer	True
+antivirus@fake-protection.org	Antivirus Expired	Your antivirus protection has expired	True
+firewall@security-scam.net	Firewall Alert	Your firewall has been compromised	True
+ransomware@crypto-lock.fake	Files Encrypted	Your files are encrypted pay ransom	True
+hacker@identity-theft.scam	Identity Stolen	Your identity was stolen act immediately	True
+spyware@monitoring-fake.org	Computer Monitored	Your computer is being monitored	True
+trojan@backdoor-scam.net	Trojan Detected	Trojan horse detected on your system	True
+worm@network-fake.org	Network Worm	Network worm spreading through your network	True
+botnet@zombie-scam.net	Botnet Infection	Your computer joined criminal botnet	True
+keylogger@password-fake.org	Passwords Stolen	Keylogger captured all your passwords	True
+rootkit@system-scam.net	System Compromised	Rootkit has taken control of system	True
+adware@popup-fake.org	Popup Virus	Popup virus installed remove immediately	True
+browser@hijack-scam.net	Browser Hijacked	Your browser has been hijacked	True
+homepage@redirect-fake.org	Homepage Changed	Malware changed your homepage settings	True
+search@engine-scam.net	Search Redirect	Search engine redirecting to malicious sites	True
+download@fake-software.org	Infected Download	Downloaded file contains 50 viruses	True
+attachment@email-scam.net	Email Virus	Email attachment contains dangerous virus	True
+link@phishing-fake.org	Malicious Link	Clicked link downloaded malware	True
+update@fake-flash.net	Flash Update	Adobe Flash needs urgent security update	True
+marketing@company.com	Campaign Launch	New marketing campaign launches Monday	False
+creative@company.com	Design Review	Creative designs ready for your review	False
+content@company.com	Content Calendar	Monthly content calendar approved	False
+social@company.com	Social Media	Social media engagement up 25% this month	False
+email@company.com	Email Campaign	Email campaign achieved 15% open rate	False
+advertising@company.com	Ad Performance	Digital advertising ROI exceeded targets	False
+brand@company.com	Brand Guidelines	Updated brand guidelines distributed	False
+pr@company.com	Press Coverage	Positive press coverage in industry publication	False
+events@company.com	Trade Show	Trade show booth setup completed	False
+webinar@company.com	Webinar Registration	Webinar registration exceeds expectations	False
+seo@company.com	SEO Report	Website ranking improved for key terms	False
+analytics@company.com	Web Analytics	Website traffic increased 30% last month	False
+conversion@company.com	Conversion Rate	Landing page conversion rate improved	False
+leads@company.com	Lead Generation	Lead generation campaign generated 500 leads	False
+nurturing@company.com	Lead Nurturing	Lead nurturing workflow optimization complete	False
+segmentation@company.com	Customer Segmentation	Customer segments analyzed and updated	False
+personalization@company.com	Personalization	Email personalization increased engagement	False
+automation@company.com	Marketing Automation	Marketing automation workflows deployed	False
+attribution@company.com	Attribution Model	Marketing attribution model updated	False
+budget@company.com	Marketing Budget	Q2 marketing budget approved by finance	False
+roi@company.com	Marketing ROI	Marketing ROI dashboard updated weekly	False
+dating@find-match.scam	Find True Love	Meet your soulmate tonight guaranteed	True
+singles@local-area.fake	Local Singles	Hot singles in your area want to chat	True
+romance@perfect-match.org	Perfect Match	Algorithm finds your perfect romantic match	True
+marriage@bride-scam.net	Foreign Bride	Beautiful foreign brides seeking marriage	True
+hookup@casual-fake.org	Casual Dating	No strings attached dating tonight	True
+adult@mature-scam.net	Adult Dating	Mature singles looking for companionship	True
+webcam@chat-fake.org	Webcam Chat	Private webcam chat with beautiful women	True
+escort@companion-scam.net	Escort Service	High-class escort service in your city	True
+massage@spa-fake.org	Massage Therapy	Relaxing massage therapy available now	True
+personal@trainer-scam.net	Personal Trainer	Get in shape with personal trainer	True
+coach@life-fake.org	Life Coach	Transform your life with our coaching	True
+therapy@counseling-scam.net	Relationship Therapy	Fix your relationship problems today	True
+psychic@fortune-fake.org	Psychic Reading	Psychic reveals your future for free	True
+astrology@horoscope-scam.net	Astrology Reading	Detailed astrology reading reveals all	True
+tarot@card-fake.org	Tarot Cards	Tarot card reading predicts your destiny	True
+numerology@number-scam.net	Numerology Report	Your lucky numbers revealed today	True
+palm@reading-fake.org	Palm Reading	Palm reading reveals your life path	True
+crystal@healing-scam.net	Crystal Healing	Healing crystals change your energy	True
+meditation@spiritual-fake.org	Meditation Guide	Ancient meditation secrets revealed	True
+chakra@alignment-scam.net	Chakra Alignment	Align your chakras for perfect health	True
+customer@company.com	Customer Complaint	Customer complaint about delayed shipment	False
+service@company.com	Service Request	Service request #SR-789012 completed	False
+satisfaction@company.com	Customer Survey	Customer satisfaction survey results	False
+feedback@company.com	Product Feedback	Valuable product feedback from customers	False
+testimonial@company.com	Customer Testimonial	Great customer testimonial for website	False
+reference@company.com	Customer Reference	Customer agreed to serve as reference	False
+loyalty@company.com	Loyalty Program	Customer loyalty program enrollment	False
+retention@company.com	Customer Retention	Customer retention rates improved	False
+churn@company.com	Customer Churn	Customer churn analysis completed	False
+acquisition@company.com	Customer Acquisition	New customer acquisition costs down	False
+lifetime@company.com	Customer Value	Customer lifetime value analysis ready	False
+segmentation@company.com	Customer Segments	Customer segmentation study complete	False
+journey@company.com	Customer Journey	Customer journey mapping workshop	False
+experience@company.com	Customer Experience	Customer experience improvement plan	False
+touchpoint@company.com	Customer Touchpoints	Customer touchpoint optimization	False
+persona@company.com	Customer Personas	Updated customer personas available	False
+voice@company.com	Voice of Customer	Voice of customer research findings	False
+nps@company.com	Net Promoter Score	NPS scores increased to industry average	False
+csat@company.com	Customer Satisfaction	CSAT scores show marked improvement	False
+ces@company.com	Customer Effort Score	Customer effort scores trending positive	False
+call@company.com	Call Center	Call center performance metrics improved	False
+chat@company.com	Live Chat	Live chat response times decreased	False
+email@company.com	Email Support	Email support ticket resolution improved	False
+social@company.com	Social Support	Social media support response optimized	False
+knowledge@company.com	Knowledge Base	Knowledge base articles updated	False
+faq@company.com	FAQ Update	Frequently asked questions updated	False
+self-service@company.com	Self Service	Self-service portal usage increased	False
+escalation@company.com	Issue Escalation	Customer issue escalation procedures	False
+resolution@company.com	Issue Resolution	Customer issue resolved within SLA	False
+manufacturing@company.com	Production Report	Monthly production targets exceeded	False
+quality@company.com	Quality Control	Quality control inspection passed	False
+warehouse@company.com	Inventory Update	Inventory levels updated in system	False
+shipping@company.com	Shipping Schedule	Daily shipping schedule attached	False
+receiving@company.com	Goods Received	New shipment received and processed	False
+supplier@company.com	Supplier Meeting	Quarterly supplier review meeting	False
+logistics@company.com	Delivery Schedule	Updated delivery schedule for next week	False
+maintenance@company.com	Equipment Maintenance	Preventive maintenance completed successfully	False
+safety@company.com	Safety Inspection	Monthly safety inspection results	False
+environment@company.com	Environmental Report	Environmental compliance report submitted	False
+regulatory@company.com	Regulatory Update	New industry regulations effective	False
+compliance@company.com	Compliance Audit	Internal compliance audit scheduled	False
+certification@company.com	ISO Certification	ISO certification audit completed	False
+standards@company.com	Quality Standards	Updated quality standards documentation	False
+procedures@company.com	Standard Procedures	Operating procedures updated	False
+lottery@mega-millions.scam	Mega Millions Winner	You won $500 million in Mega Millions	True
+sweepstakes@publishers.fake	Publishers Clearinghouse	You won $10 million sweepstakes prize	True
+contest@radio-station.scam	Radio Contest	You won radio contest grand prize	True
+raffle@charity-fake.org	Charity Raffle	Congratulations charity raffle winner	True
+drawing@supermarket.scam	Store Drawing	You won $50000 store drawing prize	True
+giveaway@social-media.fake	Social Media Giveaway	You won our social media giveaway	True
+promotion@restaurant.scam	Restaurant Promotion	Free meals for life promotion winner	True
+survey@market-research.fake	Market Research	Win $1000 for completing survey	True
+quiz@trivia-scam.org	Trivia Quiz	Answer 3 questions win $5000 prize	True
+game@online-casino.fake	Casino Game	Play free games win real money	True
+scratch@lottery-ticket.scam	Scratch Ticket	Virtual scratch ticket won $25000	True
+bingo@online-bingo.fake	Online Bingo	You won online bingo jackpot	True
+slots@slot-machine.scam	Slot Machine	Lucky slot machine spin won jackpot	True
+poker@card-game.fake	Poker Tournament	You qualified for poker tournament	True
+blackjack@casino-table.scam	Blackjack Winner	Blackjack table jackpot winner	True
+roulette@wheel-spin.fake	Roulette Spin	Lucky roulette spin won big prize	True
+dice@craps-table.scam	Dice Game	Craps table lucky roll winner	True
+keno@number-game.fake	Keno Numbers	Your keno numbers won jackpot	True
+sports@fantasy-league.scam	Fantasy Sports	Fantasy league grand prize winner	True
+horse@derby-betting.fake	Horse Racing	Horse racing bet won huge payout	True
+vendor@supplier.com	Contract Renewal	Annual supplier contract up for renewal	False
+wholesale@distributor.com	Bulk Order	Bulk order pricing updated for Q2	False
+manufacturer@factory.com	Production Schedule	Production schedule for April delivery	False
+retailer@store.com	New Product Line	New product line available for purchase	False
+dealer@authorized.com	Dealer Program	Authorized dealer program benefits	False
+reseller@partner.com	Reseller Agreement	Partnership agreement terms updated	False
+distributor@regional.com	Territory Rights	Exclusive territory distribution rights	False
+franchise@business.com	Franchise Opportunity	New franchise locations available	False
+agent@sales.com	Sales Commission	Monthly sales commission statement	False
+broker@insurance.com	Policy Quote	Insurance policy quote ready	False
+realtor@property.com	Property Listing	New property listing matches criteria	False
+contractor@construction.com	Project Bid	Construction project bid submitted	False
+consultant@advisory.com	Consulting Proposal	Strategic consulting proposal attached	False
+freelancer@services.com	Project Completion	Freelance project completed on time	False
+agency@marketing.com	Campaign Results	Marketing campaign performance report	False
+firm@legal.com	Legal Opinion	Legal opinion on contract terms	False
+practice@medical.com	Test Results	Medical test results available	False
+clinic@health.com	Appointment Reminder	Medical appointment tomorrow at 2 PM	False
+hospital@medical.com	Discharge Summary	Patient discharge summary attached	False
+pharmacy@prescriptions.com	Prescription Ready	Prescription ready for pickup	False
+cryptocurrency@bitcoin-scam.org	Bitcoin Giveaway	Elon Musk giving away free Bitcoin	True
+ethereum@crypto-scam.net	Ethereum Double	Send 1 ETH receive 2 ETH back	True
+dogecoin@meme-coin.fake	Dogecoin Million	Dogecoin millionaire wants to help you	True
+nft@digital-art.scam	Free NFT	Claim your free NFT worth $10000	True
+defi@yield-farming.fake	DeFi Yield	Earn 1000% APY with DeFi farming	True
+staking@crypto-rewards.scam	Staking Rewards	Stake coins earn guaranteed profits	True
+mining@bitcoin-mine.fake	Bitcoin Mining	Free Bitcoin mining software download	True
+wallet@crypto-wallet.scam	Crypto Wallet	New wallet with bonus cryptocurrency	True
+exchange@trading-platform.fake	Crypto Exchange	New exchange bonus $500 credit	True
+ico@initial-coin.scam	ICO Investment	Get in early on revolutionary ICO	True
+airdrop@free-tokens.fake	Token Airdrop	Free token airdrop claim now	True
+whitelist@presale-list.scam	Presale Whitelist	You're whitelisted for exclusive presale	True
+metaverse@virtual-land.fake	Virtual Real Estate	Buy virtual land before prices soar	True
+gamefi@play-to-earn.scam	Play to Earn	Earn $500 daily playing blockchain games	True
+dao@governance-token.fake	DAO Governance	Vote and earn governance tokens	True
+yield@liquidity-pool.scam	Liquidity Mining	Provide liquidity earn massive rewards	True
+flash@loan-arbitrage.fake	Flash Loans	Make $10000 with flash loan arbitrage	True
+bridge@cross-chain.scam	Cross-Chain Bridge	Bridge tokens earn bridge rewards	True
+oracle@price-feed.fake	Oracle Network	Become oracle node earn fees	True
+layer2@scaling-solution.scam	Layer 2 Scaling	Early access to layer 2 tokens	True
+admin@university.edu	Semester Schedule	Fall semester schedule now available	False
+registrar@college.edu	Enrollment Confirmation	Course enrollment confirmed for spring	False
+bursar@school.edu	Tuition Payment	Tuition payment due date reminder	False
+financial-aid@edu.gov	Financial Aid	Financial aid package approved	False
+scholarship@foundation.org	Scholarship Award	Scholarship award notification	False
+grants@research.edu	Research Grant	Research grant application approved	False
+library@university.edu	Library Notice	Library books due in 3 days	False
+housing@dormitory.edu	Room Assignment	Dormitory room assignment for fall	False
+dining@campus.edu	Meal Plan	Meal plan options for next semester	False
+parking@university.edu	Parking Permit	Parking permit registration open	False
+career@placement.edu	Job Fair	Career fair next week in student center	False
+counseling@wellness.edu	Counseling Services	Mental health resources available	False
+health@clinic.edu	Health Insurance	Student health insurance enrollment	False
+activities@student.edu	Student Activities	New student organizations recruiting	False
+sports@athletics.edu	Intramural Sports	Intramural sports registration open	False
+recreation@fitness.edu	Gym Membership	Recreation center membership renewal	False
+technology@it.edu	Student Email	Student email account setup instructions	False
+orientation@newstudent.edu	New Student Orientation	Orientation week schedule attached	False
+graduation@commencement.edu	Graduation Ceremony	Commencement ceremony details	False
+alumni@graduates.edu	Alumni Network	Alumni networking event invitation	False
+education@online-degree.scam	Online Degree	Get college degree without studying	True
+diploma@fake-university.org	Diploma Mill	Buy authentic-looking diploma online	True
+certification@instant-cert.fake	Instant Certification	Professional certification in 24 hours	True
+accreditation@bogus-school.net	Accredited Degree	Fully accredited degree program online	True
+transcript@grade-change.scam	Grade Change	Change your grades permanently	True
+admissions@easy-acceptance.fake	Guaranteed Admission	Guaranteed college admission service	True
+scholarship@fake-foundation.org	Easy Scholarship	Scholarship money no requirements	True
+student-loan@debt-relief.scam	Loan Forgiveness	Student loan forgiveness program	True
+tutoring@homework-help.fake	Assignment Help	We'll do your homework for money	True
+essay@paper-mill.scam	Essay Writing	Professional essay writing service	True
+test@cheating-service.fake	Test Taking	We'll take your online tests	True
+exam@proxy-test.scam	Exam Proxy	Someone else takes exam for you	True
+plagiarism@detection-bypass.fake	Plagiarism Bypass	Bypass plagiarism detection software	True
+research@paper-service.scam	Research Papers	Custom research papers written	True
+thesis@dissertation-help.fake	Thesis Writing	PhD thesis writing service	True
+project@assignment-scam.org	Project Completion	Complete school projects for money	True
+grade@transcript-fake.net	Fake Transcripts	Official-looking fake transcripts	True
+internship@fake-program.org	Paid Internship	High-paying internship guaranteed	True
+job@campus-scam.net	Campus Job	Easy campus job $50 per hour	True
+housing@rental-scam.org	Student Housing	Cheap student housing available now	True
+travel@vacation-deals.scam	Spring Break Deal	Luxury spring break package $99	True
+credit@student-card.fake	Student Credit Card	Pre-approved student credit card	True
+insurance@student-plan.scam	Student Insurance	Cheap student insurance plans	True
+phone@student-discount.fake	Student Discount	Student discount on phone plans	True
+software@student-license.scam	Free Software	Free software with student ID	True
+supplies@textbook-scam.org	Cheap Textbooks	Textbooks 90% off regular price	True
+meal@dining-plan.fake	Meal Plan Scam	Unlimited meal plan for $50	True
+gym@fitness-deal.scam	Gym Membership	Lifetime gym membership $100	True
+entertainment@student-deals.fake	Entertainment Package	Student entertainment package deal	True
+transportation@bus-pass.scam	Free Bus Pass	Free city transportation pass	True
+news@company.com	Company Newsletter	Monthly company newsletter published	False
+events@company.com	Company Event	Annual company picnic next month	False
+awards@company.com	Employee Recognition	Employee of the month recognition	False
+milestones@company.com	Company Milestone	Company celebrates 25th anniversary	False
+expansion@company.com	Business Expansion	New office location opening	False
+merger@company.com	Company Merger	Merger announcement and details	False
+acquisition@company.com	Company Acquisition	Strategic acquisition completed	False
+ipo@company.com	Public Offering	Initial public offering announcement	False
+earnings@company.com	Quarterly Earnings	Q3 earnings exceed analyst expectations	False
+dividend@company.com	Dividend Payment	Quarterly dividend payment announced	False
+stock@company.com	Stock Split	Two-for-one stock split approved	False
+buyback@company.com	Share Buyback	Share buyback program initiated	False
+leadership@company.com	Leadership Change	New CEO appointment effective	False
+restructuring@company.com	Organizational Restructuring	Company restructuring plan announced	False
+layoffs@company.com	Workforce Reduction	Workforce reduction necessary	False
+hiring@company.com	Hiring Freeze	Temporary hiring freeze implemented	False
+benefits@company.com	Benefits Change	Employee benefits package updated	False
+policy@company.com	Policy Update	New company policies effective	False
+culture@company.com	Company Culture	Company culture initiative launched	False
+values@company.com	Core Values	Updated company core values	False
+mission@company.com	Mission Statement	Revised mission statement published	False
+vision@company.com	Company Vision	Company vision for next decade	False
+strategy@company.com	Strategic Plan	Five-year strategic plan approved	False
+goals@company.com	Annual Goals	Annual company goals announced	False
+objectives@company.com	Business Objectives	Quarterly business objectives set	False
+kpi@company.com	Key Performance Indicators	KPI dashboard updated monthly	False
+metrics@company.com	Success Metrics	Success metrics tracked quarterly	False
+benchmarks@company.com	Industry Benchmarks	Industry benchmark comparison	False
+competition@company.com	Competitive Analysis	Competitive landscape analysis	False
+market@company.com	Market Update	Market conditions analysis	False
+investment@get-rich-scheme.scam	Investment Scam	Turn $1000 into $100000 guaranteed	True
+pyramid@multi-level.fake	Pyramid Scheme	Recruit friends make millions	True
+ponzi@investment-fraud.org	Ponzi Returns	Guaranteed 50% monthly returns	True
+advance@fee-fraud.net	Advance Fee	Pay $500 fee receive $50000	True
+overpayment@check-scam.org	Overpayment Scam	Deposit check return overpayment	True
+mystery@shopper-scam.net	Mystery Shopping	Earn $500 weekly mystery shopping	True
+envelope@stuffing-scam.org	Envelope Stuffing	Stuff envelopes at home earn money	True
+assembly@work-home.fake	Assembly Work	Assemble products at home for pay	True
+typing@data-entry.scam	Data Entry	Type from home earn $25 hourly	True
+survey@paid-survey.fake	Paid Surveys	Earn $200 daily taking surveys	True
+rebate@processing-scam.org	Rebate Processing	Process rebates earn $15 per hour	True
+craft@assembly-kit.fake	Craft Assembly	Assemble crafts at home for money	True
+medical@billing-scam.net	Medical Billing	Medical billing from home training	True
+bookkeeping@home-business.org	Bookkeeping Service	Start bookkeeping business at home	True
+travel@agent-scam.fake	Travel Agent	Become travel agent work from home	True
+real-estate@license-scam.net	Real Estate License	Get real estate license online	True
+insurance@sales-scam.org	Insurance Sales	Sell insurance earn huge commissions	True
+financial@planning-fake.net	Financial Planning	Financial planning certification easy	True
+tax@preparation-scam.org	Tax Preparation	Tax preparation business opportunity	True
+consulting@business-fake.net	Business Consulting	Start consulting business today	True
+coaching@life-scam.org	Life Coaching	Life coaching certification program	True
+fitness@trainer-fake.net	Personal Training	Personal trainer certification online	True
+nutrition@counselor-scam.org	Nutrition Counseling	Nutrition counselor certification	True
+massage@therapy-fake.net	Massage Therapy	Massage therapy license online	True
+beauty@cosmetology-scam.org	Cosmetology License	Cosmetology license in 30 days	True
+childcare@daycare-fake.net	Daycare Business	Start profitable daycare business	True
+pet@grooming-scam.org	Pet Grooming	Pet grooming business opportunity	True
+cleaning@service-fake.net	Cleaning Service	Cleaning service franchise available	True
+landscaping@lawn-scam.org	Lawn Care Business	Lawn care business startup kit	True
+handyman@service-fake.net	Handyman Service	Handyman service business opportunity	True
+maintenance@company.com	Facility Maintenance	Scheduled facility maintenance complete	False
+utilities@company.com	Utility Bills	Monthly utility costs decreased	False
+lease@company.com	Office Lease	Office lease renewal negotiated	False
+renovation@company.com	Office Renovation	Office renovation project approved	False
+furniture@company.com	Office Furniture	New office furniture delivery scheduled	False
+equipment@company.com	Office Equipment	Equipment maintenance contract renewed	False
+supplies@company.com	Office Supplies	Monthly office supplies order placed	False
+catering@company.com	Office Catering	Catering service for company event	False
+cleaning@company.com	Cleaning Service	Cleaning service contract updated	False
+security@company.com	Security Service	Security service patrol schedule	False
+parking@company.com	Parking Management	Employee parking assignments updated	False
+reception@company.com	Reception Area	Reception area redesign completed	False
+conference@company.com	Conference Room	Conference room booking system updated	False
+break@company.com	Break Room	Break room supplies restocked	False
+kitchen@company.com	Office Kitchen	Kitchen appliances maintenance completed	False
+storage@company.com	Storage Space	Additional storage space allocated	False
+mailroom@company.com	Mail Service	Mail delivery schedule updated	False
+shipping@company.com	Shipping Department	Shipping department efficiency improved	False
+receiving@company.com	Receiving Dock	Receiving dock schedule optimized	False
+loading@company.com	Loading Bay	Loading bay safety inspection passed	False
+doctor@medical-scam.org	Medical Miracle	New medical breakthrough cure everything	True
+surgery@plastic-fake.net	Plastic Surgery	Plastic surgery at 90% discount	True
+dentist@teeth-scam.org	Perfect Teeth	Perfect teeth without dentist visit	True
+hospital@treatment-fake.net	Hospital Treatment	Revolutionary hospital treatment available	True
+clinic@health-scam.org	Health Clinic	Free health screening reveals problems	True
+medicine@prescription-fake.net	Prescription Medicine	Get any prescription without doctor	True
+therapy@miracle-scam.org	Miracle Therapy	Miracle therapy cures all diseases	True
+specialist@expert-fake.net	Medical Specialist	Medical specialist consultation free	True
+diagnosis@instant-scam.org	Instant Diagnosis	Medical diagnosis in 5 minutes	True
+treatment@alternative-fake.net	Alternative Treatment	Alternative medicine works better	True
+cure@natural-scam.org	Natural Cure	Natural cure doctors don't want known	True
+supplement@health-fake.net	Health Supplement	Health supplement FDA doesn't approve	True
+vitamin@mega-dose.scam	Mega Vitamins	Mega dose vitamins cure everything	True
+mineral@essential-fake.org	Essential Minerals	Essential minerals missing from diet	True
+herb@medicinal-scam.net	Medicinal Herbs	Medicinal herbs ancient secret healing	True
+oil@essential-fake.org	Essential Oils	Essential oils heal any condition	True
+detox@cleanse-scam.net	Body Detox	Body detox removes all toxins	True
+juice@cleanse-fake.org	Juice Cleanse	Juice cleanse melts fat away	True
+tea@weight-loss.scam	Weight Loss Tea	Weight loss tea burns fat overnight	True
+coffee@fat-burning.fake	Fat Burning Coffee	Fat burning coffee melts pounds	True
+research@company.com	Market Research	Consumer research findings available	False
+development@company.com	Product Development	New product development milestone reached	False
+innovation@company.com	Innovation Lab	Innovation lab project presentations	False
+prototype@company.com	Prototype Testing	Product prototype testing results	False
+design@company.com	Design Review	Product design review scheduled	False
+engineering@company.com	Engineering Update	Engineering specifications updated	False
+testing@company.com	Quality Testing	Quality testing protocols implemented	False
+certification@company.com	Product Certification	Product certification process completed	False
+approval@company.com	Regulatory Approval	Regulatory approval received	False
+launch@company.com	Product Launch	Product launch date confirmed	False
+manufacturing@company.com	Manufacturing Process	Manufacturing process optimization	False
+supply@company.com	Supply Chain	Supply chain disruption mitigation	False
+procurement@company.com	Procurement Process	Procurement process improvements	False
+sourcing@company.com	Strategic Sourcing	Strategic sourcing initiative	False
+vendor@company.com	Vendor Performance	Vendor performance evaluation	False
+quality@company.com	Quality Assurance	Quality assurance audit results	False
+inspection@company.com	Inspection Report	Manufacturing inspection completed	False
+packaging@company.com	Packaging Design	New packaging design approved	False
+labeling@company.com	Product Labeling	Product labeling compliance verified	False
+distribution@company.com	Distribution Network	Distribution network expansion	False
+pharmacy@online-pills.scam	Online Pharmacy	Buy prescription drugs online cheap	True
+medication@no-prescription.fake	No Prescription Needed	Medication without prescription required	True
+drugstore@discount-meds.org	Discount Drugstore	Prescription medications 80% off	True
+prescription@fake-doctor.net	Fake Prescription	Doctor writes prescription online	True
+pharmaceutical@generic-drugs.scam	Generic Drugs	Generic drugs same as brand name	True
+painkillers@opioid-scam.org	Pain Medication	Strong pain medication available	True
+sleeping@pills-online.fake	Sleeping Pills	Sleeping pills without side effects	True
+anxiety@medication-scam.net	Anxiety Medicine	Anxiety medication instant relief	True
+depression@antidepressant.fake	Antidepressants	Antidepressants improve mood immediately	True
+adhd@stimulant-scam.org	ADHD Medication	ADHD medication improves focus	True
+diabetes@insulin-fake.net	Diabetes Medication	Diabetes medication cure diabetes	True
+blood@pressure-pills.scam	Blood Pressure Pills	Blood pressure pills work instantly	True
+cholesterol@statin-fake.org	Cholesterol Medicine	Cholesterol medicine lowers levels	True
+heart@medication-scam.net	Heart Medicine	Heart medication prevents attacks	True
+cancer@chemotherapy-fake.org	Cancer Treatment	Cancer treatment cure guaranteed	True
+antibiotic@infection-scam.net	Antibiotics	Antibiotics cure any infection	True
+vaccine@immunization-fake.org	Vaccines	Vaccines prevent all diseases	True
+hormone@replacement-scam.net	Hormone Therapy	Hormone therapy reverses aging	True
+steroid@muscle-building.fake	Steroids	Steroids build muscle fast	True
+enhancement@male-pills.scam	Male Enhancement	Male enhancement pills work guaranteed	True
+travel@company.com	Business Travel	Business travel policy updated	False
+expense@company.com	Travel Expenses	Travel expense report approved	False
+booking@company.com	Hotel Booking	Hotel reservations confirmed	False
+flight@company.com	Flight Information	Flight itinerary changes	False
+transportation@company.com	Ground Transportation	Airport transportation arranged	False
+visa@company.com	Travel Visa	Business visa application approved	False
+passport@company.com	Passport Renewal	Passport renewal reminder	False
+insurance@company.com	Travel Insurance	Travel insurance coverage details	False
+per-diem@company.com	Per Diem Rates	Updated per diem rates effective	False
+reimbursement@company.com	Expense Reimbursement	Expense reimbursement processed	False
+conference@company.com	Conference Travel	Conference travel arrangements	False
+training@company.com	Training Travel	Training seminar travel approved	False
+client@company.com	Client Visit	Client visit travel arrangements	False
+site@company.com	Site Visit	Site inspection travel scheduled	False
+relocation@company.com	Employee Relocation	Relocation assistance package	False
+temporary@company.com	Temporary Assignment	Temporary assignment travel	False
+international@company.com	International Travel	International business trip	False
+domestic@company.com	Domestic Travel	Domestic travel guidelines	False
+group@company.com	Group Travel	Group travel discounts available	False
+corporate@company.com	Corporate Rates	Corporate travel rates negotiated	False
+vacation@travel-scam.org	Dream Vacation	Luxury vacation package $99 total	True
+cruise@ship-scam.net	Free Cruise	Free 7-day cruise just pay taxes	True
+resort@timeshare-fake.org	Resort Timeshare	Resort timeshare presentation gift	True
+airline@ticket-scam.net	Cheap Flights	Airline tickets 90% off regular price	True
+hotel@accommodation-fake.org	Hotel Deal	5-star hotel room $29 per night	True
+rental@car-scam.net	Car Rental	Luxury car rental $5 per day	True
+tour@package-fake.org	Tour Package	All-inclusive tour package cheap	True
+excursion@adventure-scam.net	Adventure Tour	Adventure tour extreme discount	True
+safari@wildlife-fake.org	Safari Trip	African safari adventure package	True
+cruise@river-scam.net	River Cruise	European river cruise discount	True
+ski@resort-fake.org	Ski Resort	Ski resort package all inclusive	True
+beach@vacation-scam.net	Beach Resort	Beach resort unlimited amenities	True
+mountain@cabin-fake.org	Mountain Retreat	Mountain cabin retreat package	True
+spa@wellness-scam.net	Spa Weekend	Spa weekend relaxation package	True
+casino@gambling-trip.fake	Casino Trip	Casino trip with free gambling	True
+theme@park-scam.org	Theme Park	Theme park vacation package	True
+festival@music-fake.net	Music Festival	Music festival VIP tickets	True
+sports@event-scam.org	Sports Event	Sports event premium tickets	True
+concert@show-fake.net	Concert Tickets	Concert tickets below face value	True
+theater@broadway-scam.org	Broadway Show	Broadway show tickets discount	True

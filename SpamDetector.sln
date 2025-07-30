@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpamDetector", "SpamDetector\SpamDetector.csproj", "{11FE4C10-7A68-4785-B37F-F1AD6212BDC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11FE4C10-7A68-4785-B37F-F1AD6212BDC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11FE4C10-7A68-4785-B37F-F1AD6212BDC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11FE4C10-7A68-4785-B37F-F1AD6212BDC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11FE4C10-7A68-4785-B37F-F1AD6212BDC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
